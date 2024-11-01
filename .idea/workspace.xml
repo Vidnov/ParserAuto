@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba9651e-e63c-4ef7-ad81-05842b720c90" name="Changes" comment="main - create parser">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1ba9651e-e63c-4ef7-ad81-05842b720c90" name="Changes" comment="main - add gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +36,10 @@
     "Node.js.index.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "16.19.1",
     "javascript.nodejs.core.library.typings.version": "16.18.115",
-    "last_opened_file_path": "C:/Users/vidno/Desktop/learning/Projects/ParserAuto",
+    "last_opened_file_path": "C:/Users/vidno/Desktop/learning/Projects/ParserAuto/input",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,7 +72,7 @@
       <workItem from="1730279383390" duration="42000" />
       <workItem from="1730448450304" duration="4195000" />
       <workItem from="1730452716840" duration="5000" />
-      <workItem from="1730452722360" duration="86000" />
+      <workItem from="1730452722360" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="main - init  app">
       <option name="closed" value="true" />
@@ -137,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730452554304</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="main - add gitignore">
+      <option name="closed" value="true" />
+      <created>1730452955456</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730452955456</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +168,7 @@
     <MESSAGE value="main - min file" />
     <MESSAGE value="main - create parser autoteka" />
     <MESSAGE value="main - create parser" />
-    <option name="LAST_COMMIT_MESSAGE" value="main - create parser" />
+    <MESSAGE value="main - add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="main - add gitignore" />
   </component>
 </project>
